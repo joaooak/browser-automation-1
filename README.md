@@ -1,7 +1,8 @@
 <https://github.com/jclira07/browser-automation-1> 
 
 # Sobre esse projeto
-      Um sistema que realiza login, pesquisa básica e gera evidências em .pdf. Tudo isso baseado em um arquivo com BDD. 
+      Um sistema que realiza login, pesquisa básica e gera evidências em .pdf. 
+      Tudo isso baseado em um arquivo com BDD. 
 
 # Site utilizado para o teste
       <https://s2.demo.opensourcecms.com/orangehrm/symfony/web/index.php/>
