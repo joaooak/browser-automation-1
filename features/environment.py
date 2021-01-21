@@ -12,4 +12,4 @@ def before_all(context):
     context.driver.maximize_window()
 
 def before_step(context, step):
-    time.sleep(2)
+    time.sleep(1)
