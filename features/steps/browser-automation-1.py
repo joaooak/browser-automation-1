@@ -78,9 +78,12 @@ def step_impl(context):
 def step_impl(context):
     global counter
     stepText = "Dado que loguei no site"
+    for row in context.table:
+        username = row[0]
+        password = row[1]
     try:
-        context.driver.find_element_by_id("txtUsername").send_keys("opensourcecm")
-        context.driver.find_element_by_id("txtPassword").send_keys("opensourcecms")
+        context.driver.find_element_by_id("txtUsername").send_keys(username)
+        context.driver.find_element_by_id("txtPassword").send_keys(password)
         context.driver.find_element_by_id("btnLogin").click()
 
         try:
