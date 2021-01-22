@@ -39,7 +39,7 @@
 
       • BDD utilizado:
 <p align="left">
-      <img src = https://github.com/jclira07/browser-automation-1/blob/main/Imagens%20para%20o%20github/Screenshot2-bdd.jpg width="512">
+      <img src = https://github.com/jclira07/browser-automation-1/blob/main/Imagens%20para%20o%20github/Screenshot3-bdd.jpg width="512">
 </p>
 
 # Conclusão geral
